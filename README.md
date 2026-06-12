@@ -55,25 +55,25 @@ I wrote SQL queries to answer business questions such as:
 ### Database Tables
 ![Screenshot 1](screenshots/s1.png)
 
-### Foreign Key Relationships
+
 ![Screenshot 2](screenshots/s2.png)
 
-### Customer Analysis Query
+
 ![Screenshot 3](screenshots/s3.png)
 
-### Book Order Analysis
+
 ![Screenshot 4](screenshots/s4.png)
 
-### Sales Analysis
+
 ![Screenshot 5](screenshots/s5.png)
 
-### Inventory Analysis
+
 ![Screenshot 6](screenshots/s6.png)
 
-### Query Results
+
 ![Screenshot 7](screenshots/s7.png)
 
-### Final Output
+
 ![Screenshot 8](screenshots/s8.png)
 
 ## Tools Used
