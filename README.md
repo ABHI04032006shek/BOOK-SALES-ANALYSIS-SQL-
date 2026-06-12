@@ -80,6 +80,7 @@ I wrote SQL queries to answer business questions such as:
 
 - SQL
 - VS Code
+- PostgreSQL
 - Git
 - GitHub
 
